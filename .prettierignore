@@ -1,0 +1,6 @@
+# Ignore paths:
+**/node_modules
+
+# Ignore files:
+# **/*.json
+# **/*.yml
